@@ -6,4 +6,5 @@ uno dei miei piatti preferiti lo mangerei dopo le serate in discoteca
 * spaghetti
 * aglio 
 * olio 
-* peperoncino 
+* peperoncino
+* prezzemolo
