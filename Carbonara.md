@@ -5,7 +5,7 @@ La pasta tipica di Roma
 ##Ingredienti 
 * pasta 
 * uova 
-* formaggio 
-* guanciale
+* formaggio pecorino romano
+* guanciale 
 * pepe nero
 
