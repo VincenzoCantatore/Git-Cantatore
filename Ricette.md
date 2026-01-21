@@ -3,4 +3,6 @@
 * spaghetti aglio olio e peperoncino
 * risotto allo zafferano
 * pasta alla carbonara
+* minestrone di verdure
+
 
