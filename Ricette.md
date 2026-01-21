@@ -8,5 +8,5 @@ Questo archivio contiene tutte le ricette preferite di vincenzo!
 * risotto allo zafferano
 * pasta alla carbonara
 * minestrone di verdure
-
+* salmone al forno 
 
